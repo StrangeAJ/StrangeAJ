@@ -103,7 +103,7 @@ def load_image_b64(url):
 def make_svg(data):
 
     height = 445
-    num_bar = 75
+    num_bar = 750
     title_text = "Now playing"
     content_bar = "".join(["<div class='bar'></div>" for i in range(num_bar)])
     css_bar = generate_css_bar(num_bar)
