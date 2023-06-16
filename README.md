@@ -1,4 +1,4 @@
-<p align="center"> 
+  Profile View Counter <br>
   <img src="https://profile-counter.glitch.me/StrangeAJ/count.svg" />
 </p>
 
