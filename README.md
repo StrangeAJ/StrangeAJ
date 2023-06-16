@@ -1,5 +1,4 @@
 <p align="center"> 
-  These numbers don't mean anything<br>
   <img src="https://profile-counter.glitch.me/StrangeAJ/count.svg" />
 </p>
 
